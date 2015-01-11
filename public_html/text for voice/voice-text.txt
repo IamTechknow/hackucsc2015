@@ -1,0 +1,92 @@
+        //////////////////////////////////////////////////////////////////////////
+		// 1st osprey
+        '<div>'+
+        '<h1>Osprey</h1>'+
+		'<img style="width:50%" src="osprey-nest.jpg" alt="Osprey">'+
+        // '<div style="height:200px;padding-bottom:10px;">'+
+        // '<script type="text/javascript" src="image.js"></script></div>'+
+        // '<div>'+
+        // '<button type="button" onClick="backward();return false">Previous</button>'+
+        // '<button type="button" onClick="forward();return false">Next</button>'+
+        // '</div>'+
+        '<p>The osprey (<i>Pandion haliaetus</i>), sometimes known as the fish eagle, sea hawk, river hawk, or fish '+
+        'hawk, is a diurnal, fish-eating bird of prey. It is a large raptor, reaching more than 60 cm (24 in) in length '+
+        'and 180 cm (71 in) across the wings. It is brown on the upperparts and predominantly greyish on the head and '+
+        'underparts.</p>'+
+        '<p>The osprey tolerates a wide variety of habitats, nesting in any location near a body of water providing an '+
+        'adequate food supply. It is found on all continents except Antarctica, although in South America it occurs only '+
+        'as a non-breeding migrant.</p>'+
+        '<p><a href="https://en.wikipedia.org/wiki/Osprey">Wikipedia</a></p>'+
+        '</div>',
+        //////////////////////////////////////////////////////////////////////////
+		// 2nd channel drainage system
+		'<div>'+
+		'<h1>Channel Drainage System</h1>'+
+		'<img style="padding-right:10px; width:362px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/CollectorDrain.jpg/800px-CollectorDrain.jpg" alt="Agricultural Drainage"></img>'+
+		'<p>The role of logging and cultivated agriculture, including controlled grazing and plowing, had a dramatic '+
+		'influence on the natural habitats in the Pajaro Valley. With in the slough system, the marshes were drained for '+
+		'the planting of crops through the establishment of a channel drainage system.</p>'+
+		'<p>(Watsonville Wetlands Watch, Wikipedia)</p>'+
+		'</div>',
+        //////////////////////////////////////////////////////////////////////////
+		//3rd American white pelican
+        '<div>'+
+		'<h1>American White Pelican</h1>'+
+		'<img src="http://www.watsonvillewetlandswatch.org/images/birdspage/tooltipImages/AmericanWhitePelican.jpg" alt="American White Pelican"></img>'+
+		'<p>The American white pelican (<i>Pelecanus erythrorhynchos</i>) is a large aquatic soaring bird from the order Pelecaniformes. '+
+		'It breeds in interior North America, moving south and to the coasts, as far as Central America and South America, '+
+		'in winter.</p>'+
+		'<p>The American white pelican rivals the trumpeter swan, with a similar overall length, as the longest bird native '+
+		'to North America. Both very large and plump, it has an overall length is about 50&#45;70 in (130&#45;180 cm), courtesy of the '+
+		'huge beak which measures 11.3&#45;15.2 in (290&#45;390 mm) in males and 10.3&#45;14.2 in (260&#45;360 mm) in females. It has a '+
+		'wingspan of about 95&#45;120 in (240&#45;300 cm).[3] The species also has the second largest average wingspan of any '+
+		'North American bird, after the California condor.</p>'+
+		'<p>(Watsonville Wetlands Watch, <a href="http://en.wikipedia.org/wiki/American_white_pelican">Wikipedia</a>)</p>'+
+		'</div>',
+        //////////////////////////////////////////////////////////////////////////
+        // 4  tarplant
+		'<div>'+
+		'<h1>Santa Cruz Tarplant</h1>'+
+		'<img style="float:left; padding-right:10px; width:230px; height:233px;" src="http://www.watsonvillewetlandswatch.org/plant_guide/images/SantaCruzTarplant.jpg" alt="Santa Cruz Tarplant"></img>'+
+		'<p><b>Characteristics:</b> The tarplant is an aromatic, glandular annual herb in the sunflower family (Asteraceae), '+
+		'growing 10&#45;50 cm (4&#45;20 inches) tall. Small plants may produce a single yellow daisy-like flower head on a single stem, while larger plants have a rigid main stem and lateral branches that grow to the height of the main stem and produce many flowers. It is coated with a sticky, resinous material that helps to retard water loss during the heat of the day and may also help to repel potential predators.'+
+		'<a href="http://www.watsonvillewetlandswatch.org/plants.htm#ElkhornSlough">*</a></p>'+
+		'<p><b>Where to find it:</b> It typically grows on deep loam and sandy loam soils with a subsurface clay component, which hold moisture longer into the growing season compared to the surrounding sandy soils. It is frequently associated with non-native grasses such as wild oat, barley, rattlesnake grass, vulpia, and bromes. Native associates include rushes, California oatgrass, and other tarplants. '+
+		'The species is often found where disturbances maintain a short vegetation canopy through the growing season.'+
+		'<a href="http://www.watsonvillewetlandswatch.org/plants.htm#ElkhornSlough">*</a></p>'+
+		'<p><b>Interesting Fact:</b> Its beautiful flower heads color the otherwise dry fields of mid summer, attracting an interesting array of pollinators.'+
+		'<a href="http://www.watsonvillewetlandswatch.org/plants.htm#ElkhornSlough">*</a></p>'+
+		'<p>(Watsonville Wetlands Watch)</p>'+
+		'</div>',
+        //////////////////////////////////////////////////////////////////////////
+        // 5 wetland restoration
+        '<div>'+
+		'<h1>Restoration</h1>'+
+		'<p><i>Above: Students from Saint Francis High School install native plants along Middle Watsonville Slough, December 2011</i></p>'+
+		'<p>Wetlands are a valuable natural resource that have been widely degraded. The islands you see behind the Nature Center are restored for a variety of birds and other wildlife. '+
+		'Removal and exotic invasive weeds is the first step in returning these areas to natural health. '+
+		'Weeds are replaced with native California plants that promote biodiversity and provide habitat for native wildlife.</p>'+
+		'</div>',        
+
+        //////////////////////////////////////////////////////////////////////////
+		// 6 cattails
+        '<div>'+
+		'Cattails'+
+		'Characteristics: This plant is one of the most common plants growing in freshwater wetlands. It has long, flat light-green leaves and creeping roots. The flowers are at the end of a long stalk that looks like a hot dog on a stick. The fuzzy down that hangs on the cattails carries the seeds in the wind. </p>'+
+		'Where to find it: Cattails grow in fresh water in every finger of the Watsonville Slough system. '+
+		'Life cycle: It flowers from June to July '+
+		'Cultural uses: The leaves were used for weaving mats for houses. Native Americans made toy cattail dolls. Please see our statement on the use of plants.'+
+		'Interesting fact: Look closely when you walk by a colony of cattails. Cattails provide habitat and food for many nesting birds, muskrats and other animals.'+
+
+
+		'Human beings have left their mark on the Watsonville '+
+		'Wetlands for thousands of years, however, the pace of the '+
+		'transformations resulting from human contact has greatly '+
+		'accelerated in the past 200 years. The first peoples, the '+
+		'Calendaruc and other Ohlone tribes were hunters and '+
+		'gatherers. They left their mark on the land by setting '+
+		'fire to the land after harvesting seeds in autumn thereby '+
+		'discourageing the growth of large woody plants promoted '+
+		'regrowth of the perennial grasses and other plants they '+
+		'used. ',
+

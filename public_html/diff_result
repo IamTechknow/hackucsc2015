@@ -1,0 +1,84 @@
+128,145d127
+< 	
+< 	//place "you are here" point on map
+< 	var youAreHerePos;
+< 	if(navigator.geolocation) {
+<         navigator.geolocation.getCurrentPosition(function(position) {
+<             youAreHerePos = new google.maps.LatLng(position.coords.latitude,
+< 	                                           position.coords.longitude);
+< 	
+< 	        new google.maps.Marker({
+<                 position: youAreHerePos,
+<                 map: map,
+<                 title: "You are here"
+< 	        })
+< 		
+< 	    });
+< 	}
+< 	
+< 	
+157c139
+< icon: "./icons/historical_sites.png"
+---
+> icon: "./icons/historical site.png"
+187c169
+< icon: "./icons/historical_sites.png"
+---
+> icon: "./icons/historical site.png"
+220,226d201
+< function CloseOtherWindow(opened) {
+<     for (i = 0; i < 7; i++) {
+<         if (i != opened) {
+<             infowindow[i].close();
+<         }
+<     }
+< }
+229,232c204
+< google.maps.event.addListener(markers[0], 'click', function() {
+<     infowindow[0].open(map,markers[0]);
+<         CloseOtherWindow(0);
+<     });
+---
+> google.maps.event.addListener(markers[0], 'click', function() {infowindow[0].open(map,markers[0]);});
+234,237c206
+< google.maps.event.addListener(markers[2], 'click', function() {
+<     infowindow[2].open(map,markers[2]);
+<         CloseOtherWindow(2);
+<     });
+---
+> google.maps.event.addListener(markers[2], 'click', function() {infowindow[2].open(map,markers[2]);});
+239,242c208
+< google.maps.event.addListener(markers[1], 'click', function() {
+<     infowindow[1].open(map,markers[1]);
+<         CloseOtherWindow(1);
+< });
+---
+> google.maps.event.addListener(markers[1], 'click', function() {infowindow[1].open(map,markers[1]);});
+244,247c210
+< google.maps.event.addListener(markers[3], 'click', function() {
+<     infowindow[3].open(map,markers[3]);
+<         CloseOtherWindow(3);
+<     });
+---
+> google.maps.event.addListener(markers[3], 'click', function() {infowindow[3].open(map,markers[3]);});
+249,252c212
+< google.maps.event.addListener(markers[4], 'click', function() {
+<     infowindow[4].open(map,markers[4]);
+<         CloseOtherWindow(4);
+<     });
+---
+> google.maps.event.addListener(markers[4], 'click', function() {infowindow[4].open(map,markers[4]);});
+254,257c214
+< google.maps.event.addListener(markers[5], 'click', function() {
+<     infowindow[5].open(map,markers[5]);
+<     CloseOtherWindow(5);
+<     });
+---
+> google.maps.event.addListener(markers[5], 'click', function() {infowindow[5].open(map,markers[5]);});
+259,262c216
+< google.maps.event.addListener(markers[6], 'click', function() {
+<     infowindow[6].open(map,markers[6]);
+<     CloseOtherWindow(6);
+<     });
+---
+> google.maps.event.addListener(markers[6], 'click', function() {infowindow[6].open(map,markers[6]);});

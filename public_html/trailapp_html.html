@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="trailapp_css.css" />
+        <script type="text/javascript"
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAvofIXjN5BIEzqyCgsMCewqTAGJQT8r7k">
+            </script>
+            <script src="trailapp_js.js"></script>
+            <script type="text/javascript" src="./library/ContextMenu.js"></script>
+    </head>
+<body>
+	
+	<img  id="head" src="http://watsonvillewetlandswatch.org/_layout/graphics/header_logo.gif" alt="WWW logo">
+	
+	
+	<div id="nav">
+	<ul>
+		<li style="font-size:23px;font-weight:bold;color:white">Watsonville Wetlands Watcher</li>
+		<li style="color:white">Interactive Trail Map App</li>
+		<hr>
+		<li><form action="http://www.watsonvillewetlandswatch.org/">
+		<!-- modify this link to be more precise --> 
+		<input type="submit" value="Donate Now!"></form>
+		</li>
+		
+		<li><form action="http://www.watsonvillewetlandswatch.org/news.htm">
+		<input type="submit" value="Get E-Newsletter"></form>
+		</li>
+		
+		<li><form action="http://www.watsonvillewetlandswatch.org/volunteer.htm">
+		<input type="submit" value="Volunteer"></form>
+		</li>
+		
+		<li><form action="http://www.watsonvillewetlandswatch.org/">
+		<input type="submit" value="Wetlands Home"></form>
+		</li>
+		
+	</ul>
+	<hr>
+	<div id="legend">
+	<img src="legend-title.PNG" alt="Legend"><br>
+	<img id="legend-1" src="legend-1.PNG" alt="Legend"><br>
+	<!-- <img src="legend-2.PNG" alt="Legend"><br> -->
+	<img src="legend-3.PNG" alt="Legend"><br>
+	<!-- <img src="legend-4.PNG" alt="Legend"><br> -->
+	<img id="pins" src="legend-7.png" alt="Pins"><br>
+	
+	</div>
+	
+	</div>
+
+	<div id="map-canvas"></div>
+
+</body>
+</html>
+
+<!-- http://people.ucsc.edu/~anguyenv/test.html -->
