@@ -277,7 +277,7 @@ google.maps.event.addListener(markers[6], 'click', function() {
 markers[6].setMap(map);
 //*/
 var ctaLayer = new google.maps.KmlLayer({
-url: 'http://people.ucsc.edu/~anguyenv/EntireMapWeb.kml'
+url: 'http://www.watsonvillewetlandswatch.org/sloughs/EntireMapWeb.kml'
 });
 ctaLayer.setMap(map);
 
